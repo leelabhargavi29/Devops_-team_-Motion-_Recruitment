@@ -71,7 +71,6 @@ Job Optimization:
 Optimize jobs by parallelizing tasks and using multiple agents or runners.
 Cache dependencies and intermediate results to reduce build times.
 Log Management:
-
 Implement log management and retention policies within pipeline jobs.
 Use Azure Monitor or other logging services to capture and analyze pipeline logs.
 Scaling CI Pipelines:
